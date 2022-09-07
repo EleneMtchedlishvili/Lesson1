@@ -5,5 +5,3 @@
 # I am interested in front-end development
 
 # This is my first homework
-
-# Hope I understood the assignment :dd
